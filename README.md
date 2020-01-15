@@ -1,12 +1,10 @@
-	A full-stack face detection app.
-	Just supply a picture link with faces and the app will present the face edges.
-	This app uses two Heroku servers one for the frontend, and the other as restful API that connects to a PostgreSQL database.
-	The app connects to clarifai with API key and query and receives the results.
-	you can see the backend source code at `https://github.com/wantedHorizon/FaceDetect-BackEnd`;
+A full-stack face detection app.
+Just supply a picture link with faces and the app will present the face edges.
+This app uses two Heroku servers one for the frontend, and the other as restful API that connects to a PostgreSQL database.
+The app connects to clarifai with API key and query and receives the results.
+you can see the backend source code at `https://github.com/wantedHorizon/FaceDetect-BackEnd`;
 	
-	to the deploy your  app you need a clarifai api-key  , backend server and database.
-	
-                   
+to the deploy your  app you need a clarifai api-key  , backend server and database.
 
 
 
